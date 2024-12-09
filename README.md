@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LeoAlmenara
-- 👀 I’m interested in soccer and NBA
-- 🌱 I’m currently learning programming, math, pysical and english
-- 💞️ I’m looking to collaborate on I do no
-- 📫 How to reach me Twitter and Instagram
+👋 Olá! Eu sou o Leonardo!
+🎓 Estudante de Engenharia de Software na UEM | 🌟 Analista de Sistemas | 
+💻 Desenvolvedor em ADVPL e SQL Server
+🎨 Apaixonado por Java.
+📊 Atualmente trabalhando em melhorias para o ERP Protheus, além de explorar projetos pessoais em Java e PHP.
 
 <!---
 LeoAlmenara/LeoAlmenara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
